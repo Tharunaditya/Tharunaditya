@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tharunaditya
 - 👀 I’m interested in ...Cyber security, Programming, Web developing, UI and UX designing,ETHICAL HACKING
-- 🌱 I’m currently learning ...Programming python and c
+- 🌱 I’m familiar with C , Python and Java
 - 💞️ I’m looking to collaborate on ... IT projects, Programing for problem solving 
 - 📫 How to reach me ...  anuganti9@gmail.com
 
