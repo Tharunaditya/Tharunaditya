@@ -1,4 +1,4 @@
-[![Tharunaditya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharunaditya&bg_color=000000&color=00ff1e&line=1eff00&point=00ebcf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tharunaditya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharunaditya&bg_color=000000&color=00ff1e&line=1eff00&point=00ebcf&area=true&hide_border=true)](https://github.com/Tharunaditya/)
 - 👋 Hi, I’m @Tharunaditya
 - 👀 I’m interested in ...Cyber security, Programming, Web developing, UI and UX designing,ETHICAL HACKING
 - 🌱 I’m familiar with C , Python and Java
